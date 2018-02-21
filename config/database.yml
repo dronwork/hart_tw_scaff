@@ -14,7 +14,7 @@ development:
   username: main_user
   password: samara
 
-
+test:
   <<: *default
   database: hart_tw_scaff_test
   username: main_user
